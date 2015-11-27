@@ -1,0 +1,20 @@
+C:\Users\agillies.ALBASBS\AppData\Local\Temporary Projects\AlbaGraphV2\bin\Debug\AlbaGraphV2.exe
+C:\Users\agillies.ALBASBS\AppData\Local\Temporary Projects\AlbaGraphV2\bin\Debug\AlbaGraphV2.pdb
+C:\Users\agillies.ALBASBS\AppData\Local\Temporary Projects\AlbaGraphV2\obj\x86\Debug\AlbaGraphV2.csprojResolveAssemblyReference.cache
+C:\Users\agillies.ALBASBS\AppData\Local\Temporary Projects\AlbaGraphV2\obj\x86\Debug\AlbaGraphV2.csproj.ResolveComReference.cache
+C:\Users\agillies.ALBASBS\AppData\Local\Temporary Projects\AlbaGraphV2\obj\x86\Debug\AlbaGraphV2.Properties.Resources.resources
+C:\Users\agillies.ALBASBS\AppData\Local\Temporary Projects\AlbaGraphV2\obj\x86\Debug\AlbaGraphV2.csproj.GenerateResource.Cache
+C:\Users\agillies.ALBASBS\AppData\Local\Temporary Projects\AlbaGraphV2\obj\x86\Debug\AlbaGraphV2.exe
+C:\Users\agillies.ALBASBS\AppData\Local\Temporary Projects\AlbaGraphV2\obj\x86\Debug\AlbaGraphV2.pdb
+C:\Users\agillies.ALBASBS\AppData\Local\Temporary Projects\AlbaGraphV2\obj\x86\Debug\AlbaGraphV2.GraphForm.resources
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\bin\Debug\AlbaGraphV2.exe
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\bin\Debug\AlbaGraphV2.pdb
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\obj\x86\Debug\AlbaGraphV2.csprojResolveAssemblyReference.cache
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\obj\x86\Debug\AlbaGraphV2.csproj.ResolveComReference.cache
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\obj\x86\Debug\AlbaGraphV2.GraphForm.resources
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\obj\x86\Debug\AlbaGraphV2.Properties.Resources.resources
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\obj\x86\Debug\AlbaGraphV2.csproj.GenerateResource.Cache
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\obj\x86\Debug\AlbaGraphV2.exe
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\obj\x86\Debug\AlbaGraphV2.pdb
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\bin\Debug\AlbaGraphV2.exe.config
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\bin\Debug\AlbaGraphEngineering.exe.config
