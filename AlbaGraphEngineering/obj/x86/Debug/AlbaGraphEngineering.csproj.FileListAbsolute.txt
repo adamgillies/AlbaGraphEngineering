@@ -1,0 +1,30 @@
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\bin\Debug\AlbaGraphEngineering.exe.config
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\bin\Debug\AlbaGraphEngineering.exe
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\bin\Debug\AlbaGraphEngineering.pdb
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\obj\x86\Debug\AlbaGraphEngineering.csprojResolveAssemblyReference.cache
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\obj\x86\Debug\AlbaGraphEngineering.csproj.ResolveComReference.cache
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\obj\x86\Debug\AlbaGraphEngineering.Properties.Resources.resources
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\obj\x86\Debug\AlbaGraphEngineering.csproj.GenerateResource.Cache
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\obj\x86\Debug\AlbaGraphEngineering.exe
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\obj\x86\Debug\AlbaGraphEngineering.pdb
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphV2\obj\x86\Debug\AlbaGraphEngineering.GraphForm.resources
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphEngineering\bin\Debug\AlbaGraphEngineering.exe.config
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphEngineering\obj\x86\Debug\AlbaGraphEngineering.csproj.ResolveComReference.cache
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphEngineering\obj\x86\Debug\AlbaGraphEngineering.exe
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphEngineering\obj\x86\Debug\AlbaGraphEngineering.pdb
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphEngineering\bin\Debug\AlbaGraphEngineering.exe
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphEngineering\bin\Debug\AlbaGraphEngineering.pdb
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphEngineering\obj\x86\Debug\AlbaGraphEngineering.csprojResolveAssemblyReference.cache
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphEngineering\obj\x86\Debug\AlbaGraphEngineering.GraphForm.resources
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphEngineering\obj\x86\Debug\AlbaGraphEngineering.Properties.Resources.resources
+C:\Users\agillies.ALBASBS\Documents\Visual Studio 2010\Projects\AlbaGraphV2\AlbaGraphEngineering\obj\x86\Debug\AlbaGraphEngineering.csproj.GenerateResource.Cache
+C:\Users\agillies\Desktop\AlbaGraphV2\AlbaGraphEngineering\bin\Debug\AlbaGraphEngineering.exe.config
+C:\Users\agillies\Desktop\AlbaGraphV2\AlbaGraphEngineering\obj\x86\Debug\AlbaGraphEngineering.csproj.ResolveComReference.cache
+C:\Users\agillies\Desktop\AlbaGraphV2\AlbaGraphEngineering\obj\x86\Debug\AlbaGraphEngineering.exe
+C:\Users\agillies\Desktop\AlbaGraphV2\AlbaGraphEngineering\obj\x86\Debug\AlbaGraphEngineering.pdb
+C:\Users\agillies\Desktop\AlbaGraphV2\AlbaGraphEngineering\obj\x86\Debug\AlbaGraphEngineering.csprojResolveAssemblyReference.cache
+C:\Users\agillies\Desktop\AlbaGraphV2\AlbaGraphEngineering\obj\x86\Debug\AlbaGraphEngineering.GraphForm.resources
+C:\Users\agillies\Desktop\AlbaGraphV2\AlbaGraphEngineering\obj\x86\Debug\AlbaGraphEngineering.Properties.Resources.resources
+C:\Users\agillies\Desktop\AlbaGraphV2\AlbaGraphEngineering\obj\x86\Debug\AlbaGraphEngineering.csproj.GenerateResource.Cache
+C:\Users\agillies\Desktop\AlbaGraphV2\AlbaGraphEngineering\bin\Debug\AlbaGraphEngineering.exe
+C:\Users\agillies\Desktop\AlbaGraphV2\AlbaGraphEngineering\bin\Debug\AlbaGraphEngineering.pdb
